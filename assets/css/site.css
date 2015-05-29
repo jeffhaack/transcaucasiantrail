@@ -353,6 +353,30 @@ html {
         margin-top: 45px;
     }
 
+    #home-splash #trip-blog {
+        position: absolute;
+        width: 350px;
+        height: 150px;
+        right: 50px;
+        top: 50px;
+        overflow: hidden;
+        padding:0;
+        text-align: right;
+        z-index: 10;
+    }
+
+    #home-splash a {
+        color: white;
+    }
+
+    #home-splash a:hover {
+        color: #ec1078;  /* Indie Gogo */
+        color: #44546b;  /* Tumblr */
+    }
+
+
+
+
     #photo-array {
         width: 1160px;
         margin-left: auto ;
@@ -460,10 +484,16 @@ html {
         padding:0;
     }
 
+    #trail-map #about-us a {
+        color: #eaa834;
+        font-weight: 500;
+        text-decoration: none;
+    }
+    
 
     #trail-map #indie-gogo {
         position: absolute;
-        width: 300px;
+        width: 350px;
         height: 150px;
         right: 50px;
         top: 50px;
@@ -492,7 +522,8 @@ html {
     }
 
     #trail-map a:hover {
-        color: #ec1078;
+        color: #ec1078;  /* Indie Gogo */
+        color: #44546b;  /* Tumblr */
     }
 
     .link-logo {
@@ -510,7 +541,6 @@ html {
         background-color: #4c6174;
         overflow: hidden;
         height: 350px;
-
     }
 
     #footer h4 {
@@ -526,7 +556,7 @@ html {
         overflow: hidden;
         padding:0;
         margin-bottom: 15px;
-        height: 300px;
+        height: 350px;
     }
     
     #footer .person {
@@ -556,6 +586,11 @@ html {
         color: #fff;
         font-weight: 500;
         font-size: 1em;
+        text-align: center;
+    }
+
+    #footer #get-involved a {
+        color: #eaa834;
     }
 
 
