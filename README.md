@@ -1,3 +1,4 @@
-# Trans Caucasian Trail
+Transcaucasian Trail website, version 1
 
-Welcome to the trail that will change your life.  A step in to the part of the world that will bring you solitude and peace.  
+This site was made inactive November 1, 2015 and replaced by the tct2 repository.
+
